@@ -10,12 +10,13 @@ Tutorial para usar:
     -   Con la app creada debes copiar el contenido los documentos en este repositorio, que se encuentran en la carpeta src. (App.css App.js index.css)
     -   En la carpeta src crea una subcarpeta llamada `components` y copia el contenido de `movie.js`.
     
- Y listo tienes la mejor aplicación de películas. \
-
-    -   Project CRA cleanup
-    -   API Calls
-    -   Search
-    -   Movie Info
+ Y listo tienes la mejor aplicación de películas.
+ ---
+ Esta app tiene las siguientes funcionalidades:
+    
+    -   Llamadas o queries a la API de tmdb.
+    -   Búsqueda de películas por nombre, personaje o actor.
+    -   Sinopsis (en inglés) y datos de la película en general.
 
 # Cosas de la API.
 
