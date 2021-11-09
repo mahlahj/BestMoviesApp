@@ -43,5 +43,7 @@ Esta app, aparte de los hooks propios de React que se pueden leer en el código,
 Créditos a [The MovieDB](https://www.themoviedb.org/) por la creación de todo.
 
 Destacadas: "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1"
+
 Imágenes: "https://image.tmdb.org/t/p/w1280"
+
 Búsqueda: "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query="
