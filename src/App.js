@@ -2,9 +2,9 @@ import React, { useEffect, useState }from "react";
 
 import Movie from "./components/movie";
 
-const FEATURED_API = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1";
+const FEATURED_API = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=7a2bf23be5504674b5b169927a017abc&page=1";
 
-const SEARCH_API = "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query=";
+const SEARCH_API = "https://api.themoviedb.org/3/search/movie?&api_key=7a2bf23be5504674b5b169927a017abc&query=";
 
 function App() {
     const [movies, setMovies] = useState([]);
@@ -38,6 +38,12 @@ function App() {
     return (
         <div>
             <header>
+            <button 
+                type="button"  
+                class="button"
+                onClick = { () => window.location.reload('true') } >
+                    Inicio
+            </button>
                 <form onSubmit={handleOnSubmit}>
                     <input
                         className="search"
