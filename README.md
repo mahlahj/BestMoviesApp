@@ -1,6 +1,6 @@
 # Movies App con React.
 
-###Tutorial para usar:
+## Tutorial para usar:
 
 Crea una carpeta con el nombre que quieras en el sitio de tu elección, preferentemente el escritorio.
 
@@ -8,18 +8,18 @@ En terminal o línea de comandos, dirígete a la carpeta que creaste. ( `cd` usu
 
 Si no has utilizado React antes, ejecuta el siguiente comando: `npm install -g create-react-app`. (CRA)
 
-Si ya lo habías utilizado utiliza este: `create-react-app movies` //movies es el nombre de la aplicación.
+Si ya lo habías utilizado utiliza este: `create-react-app movies` // _movies es el nombre de la aplicación_.
 
 Ahora escribe cd movies en tu terminal `npm start` (Si no funciona intenta `yarn start` ).
 
-Con la app creada debes copiar el contenido los documentos en este repositorio, que se encuentran en la carpeta src.
+Con la app creada debes copiar el contenido los documentos en este repositorio, que se encuentran en la carpeta _src_.
 
 En la carpeta src crea una subcarpeta llamada `components` y copia el contenido de `movie.js`.
 
-    
 Y listo tienes la mejor aplicación de películas.
+
 ---
-Para desplegar/deploy:
+# Para desplegar/deploy:
 
 Contar con cuenta en heroku o netlify.
 
@@ -37,6 +37,7 @@ Esta app, aparte de los hooks propios de React que se pueden leer en el código,
     -   Búsqueda de películas por nombre, personaje o actor.
     -   Sinopsis (en inglés) y datos de la película en general.
 
+---
 ## Cosas de la API.
 
 Créditos a [The MovieDB](https://www.themoviedb.org/) por la creación de todo.
