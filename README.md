@@ -10,7 +10,7 @@ Si no has utilizado React antes, ejecuta el siguiente comando: `npm install -g c
 
 Si ya lo habías utilizado utiliza este: `create-react-app movies` // _movies es el nombre de la aplicación_.
 
-Ahora escribe cd movies en tu terminal `npm start` (Si no funciona intenta `yarn start` ).
+Ahora escribe `cd movies` en tu terminal y `npm start` (Si no funciona intenta `yarn start` ).
 
 Con la app creada debes copiar el contenido los documentos en este repositorio, que se encuentran en la carpeta _src_.
 
