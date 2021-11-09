@@ -25,6 +25,8 @@ Contar con cuenta en heroku o netlify.
 
 Iniciar sesión en la cuenta y acudir al _panel de control_.
 
+Asegurarte estas en el directorio creado por react o habrá problemas para conectar.
+
 Seleccionar `connect to github` y luego seleccionar el nombre/url del repositorio.
 
 Hacer click en el botón `connect`, y esperar construya todo la plataforma.
