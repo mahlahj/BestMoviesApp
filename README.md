@@ -33,14 +33,14 @@ Hacer click en el botón `connect`, y esperar construya todo la plataforma.
 ---
 Esta app, aparte de los hooks propios de React que se pueden leer en el código, tiene las siguientes funcionalidades:
     
-    -   Llamadas o queries a la API de tmdb.
+    -   Llamadas o queries a la API de TMDB.
     -   Búsqueda de películas por nombre, personaje o actor.
     -   Sinopsis (en inglés) y datos de la película en general.
 
 ---
 ## Cosas de la API.
 
-Créditos a [The MovieDB](https://www.themoviedb.org/) por la creación de todo.
+Créditos a [The MovieDB](https://www.themoviedb.org/) por la creación de todo. No olvides obtener una llave personal directamente de TMDB.
 
 Destacadas: "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1"
 
